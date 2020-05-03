@@ -1,4 +1,8 @@
 # PlaneWar玩法说明
+
+[![](https://img.shields.io/badge/license-MIT-green)](https://github.com/Fieldhunter/PlaneWar/blob/master/LICENSE)
+[![](https://img.shields.io/badge/author-Fieldhunter-blue)](https://github.com/Fieldhunter)
+
 1.基于python3.6.5版本和pygame模块。
 
 2.下载程序时把所有文件都下载下来，并放在同一个目录下面，双击python文件即可开始游戏。
